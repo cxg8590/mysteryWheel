@@ -1,0 +1,61 @@
+<clues>
+    <clue type="inro">
+        <text>A masquarade ball sounded like a fun idea when you agreed to go, but after the thrill of the masks wears off you bigin to grow bored. Despite being invited, you don't know anyone here, and to make matters worse most of the other guests seem to already know each other and are content to talk amongst themselves. While trying to enjoy yourself a little you spot a tall man in a black mask and cloak. He seems to be just another party guest, but something about him seems off. Just as you take your eyes off him to return to what you were doing you hear a loud bang! A man falls to the ground dead in the middle of the dance floor and you catch the man in black blending silently into the now chaotic crowd before disappearing down a hallway. You try to follow him as best you can but he seems to know these halls pretty well. Eventually you think you might've cornered him in small closet but when you open the door all you can find is the mask and cloak. Looks like the game is a foot...</text>
+    </clue>
+    <clue type="intro">
+        <text>Looks like Uncle Benjamin's finally kicked the bucket. You've never really met him, but you do know he is obscenely rich and if you've been invited to this last dinner party at his manor. Strangley it seems like you are the only member of your family there. You expected at least Grandma Shirley, but it seems to be nothing but old friends and aquaintances of your uncle. After the last guests arrive you are all ushered into the dinning hall. You make your way to your assigned seat and prepare to get started on what looks like a delicious dinner when suddenly the power goes out. after a few moments of almost total darkness the lights come back on and you're now glad no one else in your family is here as there is now a rather large knife sticking out of one of the guests. A million questions rush to your mind but you know you won't get many answers sitting here, time to see what this mansion is hiding...
+        </text>
+    </clue>
+    <clue type="intro">
+        <text>You aren't sure why you showed up, you don't even know why you were invited. The manor looms imposingly as you approach tentativly and a little unsettled. Something just feels off and that feeling only intensifies the closer you get. Just as you expected you enter the greeting room and recognize absolutly nobody. After failing to make small talk for what seems like forever dinner is finally announced to be ready. You enter the dinning room and are pleasently surprised to find that at least the food looks good. You sit down at an open space and prepare to dig in when there is a loud crash coming from the kitchen. You and a few others decide to check it out and find to your surprise the chef slumped over some half prepared creme brulee. Looks like this terrible party just got a lot more interesting...</text>
+    </clue>
+    <clue type="clue">
+        <text>You spot some muddy footprints leading into another room. Thinking thats strange considering you're inside you decide to follow them. They seem to peter out after a while and you are about to give up when something cathches your eye, a crowbar with what looks like blood drying on the blade. Now to find out who this belongs to...</text>
+    </clue>
+    <clue type="clue">
+        <text>Seeing a glint out of the corner of your eye you notice something strange. A glass of wine has shattered in an out of the way corner leaving glass on the carpet. Could it have been used as a desperate bludgeon? or maybe someone is using a piece of glass as a mackshift shiv? You need to investigate further...</text>
+    </clue>
+    <clue type="clue">
+        <text>You notice some strange holes in one of the walls. They appear to have been made by some kind of shotgun. You don't remember hearing a shotgun at any point during the night, but could this be from some old argument coming back to haunt . You begin to wonder what connections the guests might have...</text>
+    </clue>
+    <clue type="clue">
+        <text>While investigateing the study you notice what seems like a shadow moving behind the mirror. Thinking quickly you grab a heavy looking bust off the desk and throw it as hard as you can at the mirror. The glass shatters easily revealing a small room behind one way mirrored glass. The shadow is gone but it seems like whoever it is is keeping a close watch on the guests...</text>
+    </clue>
+    <clue type="clue">
+        <text>Unsure of what to do next you stare silently into the fireplace. As you try to get your thoughts in order you notice in the corner what looks like a scrap of paper. Quickly grabbing some metal tongs you manage to retrieve the smoldering scrap. It's almost completely bunrned away, but you are able to make out what looks like a list of supplies and what look like some mostly illegible names. </text>
+    </clue>
+    <clue type="clue">
+        <text>Assuring you no one could've gotten in, the buttler unlocks the door to the library. At first thinking your hunch might not be right, you spot a small glass of bouron sitting on a desk. An old drink on it's own isn't exactly suspicious, but the ice still floating in it definitly is. Someone has been here recently and they seem to be rather comfortable with the layout of the manor. But who would have have access to the locked rooms...</text>
+    </clue>
+    <clue type="murder">
+        <text>As you turn a corner you suddenly hear an ear piercing shreek. Sprinting upstairs to find out whats happening you come to a locked door just as the screaming cuts out. Pulling on the door as hard as you can you suddenly find yourself pinned under the another still warm body. The murderer has struck again and time is running out...</text>
+    </clue>
+    <clue type="murder">
+        <text>While searching the library for clues you hear a loud gunshot coming from the other room. Initially unsure of whether to run toward or away from the noise you steel your nerves and run to where you think it came from. By the time you get there the killer is already gone and in the middle of the floor is another victim...</text>
+    </clue>
+    <clue type="murder">
+        <text>Investigating is thirsty work and that wine from dinner is calling. You make your way to the dinning room only to find some drunkered hogging the best bottle! You swipe it away from him and begin to pour yourself a glass when suddenly the drunk begins to convulse horribly before falling to the floor dead as a doornail. Someone has poisoned the Wine! Possibly a late attempt to wipe out the lot of you. You're safe for now but that was a close call...</text>
+    </clue>
+    <clue type="murder">
+        <text>While walking down a hallway you notice a strange stain spreading across the carpet, originating from an otherwise inconspicuous closet. You open the door and just barely evade the body falling in the middle of the puddle it just made. Shocked but not detered you start to look for clues but with another guest lost you start to wonder if you might be too little to late...</text>
+    </clue>
+    <clue type="murder">
+        <text>Examining a broken mug in the Foyer, you suddenly hear a yell and a cracking noise coming from above. You just barely manage to dive out of the way of the body plummeting from the second story but are grazed by the chunks of bannister that accompanied it as it fell. Regaining your nerves you sprint up the grand staircase only to find whoever shoved the latest victim is gone. That was too close a call and you begin to wonder if it was a coincidence you were directly under where the latest victim met their end...</text>
+    </clue>
+    <clue type="murder">
+        <text>You begin to get a little paranoid as you walk down the long hallway. Unlike most of the other areas of the manor this wing is almost completely dark. Despite moving as carefully as you can you suddenly trip over something big and smash your face into the ground. Dusting yourself off and rubbing your hopefully not broken nose you look back to see what tripped you finding to your horror another body with a knife sticking out of it's back. Investigation or not you are not going to get stabbed in the dark; you pick yourself up and sprint back towrds the light. As you flee you begin to wonder why this new victim was wandering the dark halls alone. Were they investigating like you? or did they have some other purpose...</text>
+    </clue>
+    <clue type="good">
+        <text>The pieces are all starting to fit together. You call the remaining guests into the sitting room and begin to lay out what you have found. As you walk everyone through what you've found everything begins to click in your head. The weapon, the party, the choice of guests. One name begins to emerge clearly in your mind. As you reach the summation of your speech one particular guest suddenly bolts. Not to worry though, you already guessed he would and manage to cut off his escape. Two other guests drag him back and another empties his pockets revealing a not only the murder weapon but a bottle of poison and a guest list with the now departed crossed off. The police eventually arrive and drag the murder away while you and the other guests finally get to return to that delicious looking dinner.</text>
+    </clue>
+    <clue type="ok">
+        <text>Rounding a corner you suddenly feel a sharp pain in your head and your vision goes fuzzy. You turn around just in time to see the crowbar coming down for a second time. You stumble backwards catching yourself on the bannister. Your reflexes finally kick in as the killer is about to swing again and you catch the crowbar, breaking your hand but saving your head. You manage to hold on and keep the murderer from getting away just long enough for help to arrive and the remaining guests wrestle the killer off of you. You pass out just as the others successfully restrain the killer. You wake up in the hospital the next day thinking "I may not have solved the case but at least I caught the murderer."</text>
+    </clue>
+    <clue type="bad">
+        <text>Of course! The buttler did it! You gather your clues and present them to the remaining guests. When he hears your accusation the buttler begins to back out of the room but is stopped by two of the guests. As you watch the police drag the buttler away you turn to find a fresh body sitting in the middle of the room with a knife in it's back. Attched to the knife is a note: "Close, but no Cigar. Better luck next time!"
+        </text>
+    </clue>
+    <clue type="terrible">
+        <text>You are lost for leads. Everyone the clues pointed to has wound up dead and the manor is running out of guests. Suddenly you feel something press in to your back. "Nice try detective, but it looks like I got the upper hand". You hear a loud bang and feel a piercing pain in your back. Your last thoughts as the world goes dark: "I never would've guessed it was..."</text>
+    </clue>
+</clues>
